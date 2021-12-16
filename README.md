@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 배우기 시작한지 얼마되지않은 새싹
+
+
 <!--
 **Youuuuj/Youuuuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
